@@ -46,7 +46,10 @@ Comandos que pueden serme de utilidad
     Este comando descarta todos los cambios no confirmados en el directorio actual, restaurando los archivos a su último estado confirmado. Es útil si deseas deshacer todos los cambios realizados desde el último commit.
 
 16. Remover todo lo de GitHub
-    Esto puede referirse a eliminar un repositorio de GitHub o a eliminar todos los archivos de un repositorio local. Si deseas eliminar un repositorio de GitHub, puedes hacerlo desde la interfaz web de GitHub. Si deseas eliminar un repositorio local, puedes simplemente borrar la carpeta que contiene el repositorio.
+    Esto puede referirse a eliminar un reposit|orio de GitHub o a eliminar todos los archivos de un repositorio local. Si deseas eliminar un repositorio de GitHub, puedes hacerlo desde la interfaz web de GitHub. Si deseas eliminar un repositorio local, puedes simplemente borrar la carpeta que contiene el repositorio.
 
 17. Control Panel\User Accounts\Credential Manager
     Esto se refiere a la ubicación en Windows donde se almacenan las credenciales de acceso, como nombres de usuario y contraseñas. Si tienes problemas de autenticación con Git (por ejemplo, al hacer git push), puedes ir al Administrador de Credenciales para eliminar o modificar las credenciales almacenadas.
+
+# Probando
+
