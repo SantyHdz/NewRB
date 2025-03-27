@@ -7,7 +7,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1630b8f-dcb2-42b5-a87f-95279aa1f449" name="Changes" comment="" />
+    <list default="true" id="d1630b8f-dcb2-42b5-a87f-95279aa1f449" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RetroBusters/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RetroBusters/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RetroBusters/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RetroBusters/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conexiones/ConexionEF3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modelos/ModelosRB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetroBusters.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetroBusters.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/db_RetroBusters.sql" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +118,7 @@
       <workItem from="1742596991023" duration="42000" />
       <workItem from="1742615444018" duration="1076000" />
       <workItem from="1743076872552" duration="2299000" />
-      <workItem from="1743095828430" duration="931000" />
+      <workItem from="1743095828430" duration="1334000" />
     </task>
     <servers />
   </component>
